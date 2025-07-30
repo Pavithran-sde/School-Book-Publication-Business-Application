@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib1/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib1/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib1/hsqldb.jar"/>
+	<classpathentry kind="lib" path="lib1/jackcess-2.1.11.jar"/>
+	<classpathentry kind="lib" path="lib1/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="lib1/ucanaccess-4.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="lib/itext.jar"/>
+	<classpathentry kind="lib" path="lib/jackcess-2.1.11.jar"/>
+	<classpathentry kind="lib" path="lib/rs2xml.jar"/>
+	<classpathentry kind="lib" path="lib/ucanaccess-4.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/javaprogram/Database_management/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/javaprogram/Database_management/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/javaprogram/Database_management/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="E:/javaprogram/Database_management/lib/itext.jar"/>
+	<classpathentry kind="lib" path="E:/javaprogram/Database_management/lib/jackcess-2.1.11.jar"/>
+	<classpathentry kind="lib" path="E:/javaprogram/Database_management/lib/rs2xml.jar"/>
+	<classpathentry kind="lib" path="E:/javaprogram/Database_management/lib/ucanaccess-4.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/javaprogram/Database_management/lib1/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/javaprogram/Database_management/lib1/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/javaprogram/Database_management/lib1/hsqldb.jar"/>
+	<classpathentry kind="lib" path="E:/javaprogram/Database_management/lib1/jackcess-2.1.11.jar"/>
+	<classpathentry kind="lib" path="E:/javaprogram/Database_management/lib1/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="E:/javaprogram/Database_management/lib1/ucanaccess-4.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/javaprogram/project/lib/mysql-connector.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
